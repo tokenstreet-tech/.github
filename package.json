@@ -1,0 +1,31 @@
+{
+    "name": "github",
+    "version": "1.0.0",
+    "description": "This is a special GitHub repository. The created /profile/README.md will appear on our organization's profile.",
+    "main": "profile/README.md",
+    "scripts": {
+        "prettier": "prettier --write .",
+        "prettier:staged": "pretty-quick --staged",
+        "prepare": "husky install"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/tokenstreet-tech/.github.git"
+    },
+    "keywords": [
+        "GitHub",
+        "profile",
+        "README"
+    ],
+    "author": "Daniel Reichhart <daniel@tokenstreet.com> (https://tokenstreet.com/)",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/tokenstreet-tech/.github/issues"
+    },
+    "homepage": "https://github.com/tokenstreet-tech/.github#readme",
+    "devDependencies": {
+        "husky": "^8.0.1",
+        "prettier": "2.6.2",
+        "pretty-quick": "^3.1.3"
+    }
+}
