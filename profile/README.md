@@ -1,4 +1,4 @@
--   [Blog](https://tokenstreet.com/)
+-   [Blog](https://en.tokenstreet.com/blog)
 -   [Career](https://en.tokenstreet.com/career)
 -   [Facebook](https://www.facebook.com/tokenstreet.de)
 -   [Homepage](https://tokenstreet.com/)
